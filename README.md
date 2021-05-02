@@ -35,10 +35,10 @@ const MECVxD = {
   learning: ["MySQL", "Nest.Js", "MongoDB"],
   achievements: [
     {
-      certification: "AZ-900 Azure Fundamentals",
+      Certification: "AZ-900 Azure Fundamentals",
     },
     {
-      certificacion: "Fundamentos para la innovación en la industria 4.0 con tecnologías Microsoft"
+      Certification: "Fundamentos para la innovación en la industria 4.0 con tecnologías Microsoft"
     },
     {
       Hackathon: "Second place in 'Hackathon-Innovaccion' with the project 'Rhythm Practice'"
