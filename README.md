@@ -38,7 +38,7 @@ const MECVxD = {
 
 ---
 
-![MECVxD's github stats](https://github-readme-stats.vercel.app/api?username=MECVxD&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinoctocat" style="float: left; margin-right: 10px;" width="300px" />
+![MECVxD's github stats](https://github-readme-stats.vercel.app/api?username=MECVxD&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinoctocat" style="float: left; margin-right: 10px;" width="250px" />
 
 ### Get In Touch<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
