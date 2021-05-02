@@ -1,4 +1,4 @@
-# Mauricio Covarrubias!&nbsp
+# Mauricio Covarrubias
 
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
@@ -16,3 +16,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```Javascript
+const MECVxD = {
+  code: [Javascript, Java, Python, Typescript, HTML, CSS],
+  tools: [Node, Docker, Vue.js, Microsoft_Azure, Git, GitHub],
+  learning: ["MySQL", "Nest.Js", "MongoDB"]
+}
+```
+
+<a href="https://github.com/MECVxD/MECVxD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MECVxD&count_private=true&theme=onedark&show_icons=true" />
+</a>
+<a href="https://github.com/MECVxD/MECVxD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MECVxD&count_private=true&theme=onedark" alt="MECVxD's GitHub Stats" />
+</a>
