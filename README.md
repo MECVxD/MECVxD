@@ -27,8 +27,10 @@ const MECVxD = {
 
 ---
 
-### GitHub stats
+![MECVxD's github stats](https://github-readme-stats.vercel.app/api?username=MECVxD&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
-<br>
+### Get In Touch<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-![MECVxD's github stats](https://github-readme-stats.vercel.app/api?username=MECVxD&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[website]: https://mecvxd.github.io/
