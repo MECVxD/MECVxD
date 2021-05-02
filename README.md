@@ -1,19 +1,15 @@
 # Mauricio Covarrubias
 
+### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
+
 <p>
   <em>
     I am a student of the <b>Instituto Tecnologico de Merida</b>. <br>
     I am 25 years old, proudly Mexican<img src="http://edu.jalisco.gob.mx/probemjal/sites/edu.jalisco.gob.mx.probemjal/files/mexico.svg" width="30px"><br>
-    Team member at <a href="https://dscsrm.com/"> <b>DSC SRM Powered by Google Developers</b></a><br>
-    <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
-    I Love <b>Android Development</b>, xD. <br>
+    Currently I am focusing on <b>back-end</b>, although I also have some knowledge of front-end<br>
+    I Love <b>Web Development</b>, <b>Learning</b> and <b>Develop Personal Projects</b><br>
   </em>  
 </p>
-proudly Mexican, I am 25 years old, currently I am focusing on back-end, although I also have some knowledge of front-end
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
 <!--
 **MECVxD/MECVxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
