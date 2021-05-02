@@ -41,7 +41,7 @@ const MECVxD = {
       certificacion: "Fundamentos para la innovación en la industria 4.0 con tecnologías Microsoft"
     },
     {
-      Hackathon: "Second place in 'Hackathon-Innovaccion' with the proyect 'Rhythm Practice'"
+      Hackathon: "Second place in 'Hackathon-Innovaccion' with the project 'Rhythm Practice'"
     }
   ]
 }
