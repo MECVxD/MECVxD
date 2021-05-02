@@ -25,9 +25,10 @@ const MECVxD = {
 }
 ```
 
-<a href="https://github.com/MECVxD/MECVxD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MECVxD&count_private=true&theme=onedark&show_icons=true" />
-</a>
-<a href="https://github.com/MECVxD/MECVxD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MECVxD&count_private=true&theme=onedark" alt="MECVxD's GitHub Stats" />
-</a>
+---
+
+### GitHub stats
+
+<br>
+
+![MECVxD's github stats](https://github-readme-stats.vercel.app/api?username=MECVxD&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
