@@ -32,7 +32,18 @@ Here are some ideas to get you started:
 const MECVxD = {
   code: [Javascript, Java, Python, Typescript, HTML, CSS],
   tools: [Node, Docker, Vue.js, Microsoft_Azure, npm, Git, GitHub],
-  learning: ["MySQL", "Nest.Js", "MongoDB"]
+  learning: ["MySQL", "Nest.Js", "MongoDB"],
+  achievements: [
+    {
+      certification: "AZ-900 Azure Fundamentals",
+    },
+    {
+      certificacion: "Fundamentos para la innovación en la industria 4.0 con tecnologías Microsoft"
+    },
+    {
+      Hackathon: "Second place in 'Hackathon-Innovaccion' with the proyect 'Rhythm Practice'"
+    }
+  ]
 }
 ```
 
