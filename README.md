@@ -20,17 +20,23 @@ Here are some ideas to get you started:
 ```Javascript
 const MECVxD = {
   code: [Javascript, Java, Python, Typescript, HTML, CSS],
-  tools: [Node, Docker, Vue.js, Microsoft_Azure, Git, GitHub],
+  tools: [Node, Docker, Vue.js, Microsoft_Azure, npm, Git, GitHub],
   learning: ["MySQL", "Nest.Js", "MongoDB"]
 }
 ```
 
 ---
 
-![MECVxD's github stats](https://github-readme-stats.vercel.app/api?username=MECVxD&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![MECVxD's github stats](https://github-readme-stats.vercel.app/api?username=MECVxD&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinoctocat" style="float: left; margin-right: 10px;" width="300px" />
 
 ### Get In Touch<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="MECVxD" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="MECVxD | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MECVxD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MECVxD | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][email]
 
 [website]: https://mecvxd.github.io/
+[twitter]: https://twitter.com/mau_covarrubias
+[linkedin]: https://www.linkedin.com/in/mauricio-covarrubias-402a66200/
+[email]: mauricioecovarrubias@hotmail.com
