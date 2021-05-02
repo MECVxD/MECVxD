@@ -4,10 +4,11 @@
 
 <p>
   <em>
-    I am a student of the <b>Instituto Tecnologico de Merida</b>. <br>
-    I am 25 years old, proudly Mexican<img src="http://edu.jalisco.gob.mx/probemjal/sites/edu.jalisco.gob.mx.probemjal/files/mexico.svg" width="30px"><br>
+    🌱 I am a student of the <b>Instituto Tecnologico de Merida</b>. <br>
+    😄 I am 25 years old, proudly Mexican <img src="http://edu.jalisco.gob.mx/probemjal/sites/edu.jalisco.gob.mx.probemjal/files/mexico.svg" width="20px"><br>
     Currently I am focusing on <b>back-end</b>, although I also have some knowledge of front-end<br>
-    I Love <b>Web Development</b>, <b>Learning</b> and <b>Develop Personal Projects</b><br>
+    😄 I Love <b>Web Development</b>, <b>Learning</b> and <b>Develop Personal Projects</b>and <b>Dinosaur</b><br>
+    🔭 Together with my team we won the second place in our first hackathon (Innovacción Virtual - Microsoft 2020) you can read more in this article <a href="https://wildentrepreneur.org/conoce-a-los-ganadores-del-mega-hackathon-de-innovaccion-virtual/">Hackathon-Innovaccion</a>
   </em>  
 </p>
 
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 ```Javascript
