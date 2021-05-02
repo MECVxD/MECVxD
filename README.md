@@ -1,4 +1,6 @@
-### Hi there 👋
+# Mauricio Covarrubias!&nbsp
+
+### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
 <!--
 **MECVxD/MECVxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
