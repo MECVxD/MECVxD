@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 ```Javascript
 const MECVxD = {
   code: [Javascript, Java, Python, Typescript, HTML, CSS],
-  tools: [Node, Docker, Vue.js, Microsoft_Azure, npm, Git, GitHub],
-  learning: ["MySQL", "Nest.Js", "MongoDB"],
+  tools: [Node, Docker, Vue.js, Microsoft_Azure, npm, Git, GitHub, MySQL],
+  learning: ["Nest.Js", "MongoDB"],
   achievements: [
     {
       Certification: "AZ-900 Azure Fundamentals",
@@ -58,5 +58,5 @@ const MECVxD = {
 [<img align="left" alt="MECVxD | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 
 [website]: https://mecvxd.github.io/
-[linkedin]: https://www.linkedin.com/in/mauricio-covarrubias-402a66200/
+[linkedin]: https://www.linkedin.com/in/mauricio-covarrubias/
 [email]: mauricioecovarrubias@hotmail.com
