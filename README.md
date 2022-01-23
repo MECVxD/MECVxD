@@ -45,7 +45,7 @@ const MECVxD = {
       Hackathon: "Second place in 'Hackathon-Innovaccion' with the project 'Rhythm Practice'"
     },
     {
-      university studies: "Computer Stystems Engineer"
+      University_Studies: "Computer Stystems Engineer"
     }
   ]
 }
