@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ```Javascript
 const MECVxD = {
   code: [Javascript, Java, Python, Typescript, HTML, CSS],
-  tools: [Node, Docker, Vue.js, Microsoft_Azure, npm, Git, GitHub, MySQL],
+  tools: [Node, Docker, Vue.js, Microsoft_Azure, npm, Git, GitHub, MySQL, GitLab, Angular],
   learning: ["Nest.Js", "MongoDB"],
   achievements: [
     {
@@ -43,6 +43,9 @@ const MECVxD = {
     },
     {
       Hackathon: "Second place in 'Hackathon-Innovaccion' with the project 'Rhythm Practice'"
+    },
+    {
+      university studies: "Computer Stystems Engineer"
     }
   ]
 }
