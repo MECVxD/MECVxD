@@ -5,7 +5,7 @@
 <p>
   <em>
     🌱 I am a graduate of the <b>Instituto Tecnologico de Merida</b>. <br>
-    🔭 I currently have a job at <b>Netlogistik</b> as a <b>Software Developer</b> <br>
+    🔭 I currently have a job at <b>Accenture</b> as a <b>Software Developer</b> <br>
     😄 I am 26 years old, proudly Mexican <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" width="20px"><br>
     🤔 Currently I am focusing on <b>back-end</b>, although I also have some knowledge of front-end<br>
     😄 I Love <b>Web Development</b>, <b>Learning</b> and <b>Develop Personal Projects</b> and <b>Dinosaur</b><br>
